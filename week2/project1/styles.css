@@ -1,5 +1,5 @@
   h1{
-      color: green;
+      color: rgb(111, 206, 4);
       font-size: 45px;
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -21,4 +21,4 @@ a:hover{
 }
 .aclass > img{
   float: left;
-}
+ n }
