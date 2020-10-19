@@ -1,0 +1,20 @@
+html, body{
+    text-align: center;
+background-color: pink;  
+}
+h1 {
+    color: pink;
+    font-size: 5.0em;  
+} 
+h6 {
+    color: yellowgreen; 
+ } 
+ img {
+     width: 300px; 
+     height: auto; 
+     padding-bottom: 50px; 
+     align-content: center;
+  } 
+  div {
+      text-align: center;
+   } 
