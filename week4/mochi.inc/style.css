@@ -1,0 +1,19 @@
+h1{
+    background-color: skyblue;
+}
+span{
+    background-color: orange;
+    padding: 5px;
+    margin: 5px;
+}
+img{
+    width: 250px;
+    float: left;
+    margin: 5px;
+}
+h2{
+    background-color: skyblue;
+    }
+h3{
+    background-color: skyblue;
+}

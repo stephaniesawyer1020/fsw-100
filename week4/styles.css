@@ -1,4 +1,41 @@
-html, body{
-    text-align: center;
-background-color: pink;
+body{
+    font-family: 'Commissioner', sans-serif;
+}
+
+nav {
+    width: 100%;
+    background: lightblue; 
+    position: fixed;
+
+}
+
+main{
+    width: 100%;
+    height: auto;
+    background: lightgray;
+}
+
+main > div {
+    background: purple;
+    width: 80%;
+
+
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    float: left; 
+}
+
+h1, p, span{
+    
+    border: 1px purple solid; 
+    background-color: gold;
+    padding: 25px;
+    margin: 25px;
+
+}
+nav{
+    position: fixed;
 }
