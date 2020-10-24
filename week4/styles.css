@@ -4,7 +4,7 @@ body{
 
 nav {
     width: 100%;
-    background: lightblue; 
+    background: rgb(202, 127, 29); 
     position: fixed;
 
 }
@@ -30,8 +30,8 @@ img{
 
 h1, p, span{
     
-    border: 1px purple solid; 
-    background-color: gold;
+    border: 1pxn black; 
+    background-color:tan;
     padding: 25px;
     margin: 25px;
 
