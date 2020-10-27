@@ -1,22 +1,15 @@
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat (4,1fr);
-    margin-top: 150px;    
-    grid-gap: 10px;
-}
-.grid-container > div {
-    text-align: center;
-    font-size: 30px;
-  }
-
-.hero { 
+.hero {
     /* Photo by mnm.all on Unsplash */
     background: url('https://images.unsplash.com/photo-1453733190371-0a9bedd82893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60') center;
     background-size: cover;
     padding: 4rem 2rem;
   
-     }
-    
+    /* Grid styles */
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat (4, 1fr);
+    grid-gap: 10px;
+  }
   h1{
       color: white;
   }
@@ -79,4 +72,9 @@
       height: 100%;
       width: 100%;
       grid-column: 4/5;
+  }
+  .grid-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 5px;
   }
