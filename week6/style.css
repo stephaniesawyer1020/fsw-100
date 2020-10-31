@@ -1,0 +1,54 @@
+.item1{
+    background-color: rgb(175, 101, 126);
+    height: 100px;
+    width: 100px;
+
+    }
+    .item1:hover{
+        background-color: orange;
+    }
+.item2{
+     background-color: pink;
+     height: 100px;
+     width: 100px;
+    
+}
+.item2:hover{
+    background-color: orange; 
+}
+.item3{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+
+}
+.item3:hover{
+    background-color: orange;
+}
+.item4{
+    background-color: pink;
+    height:200px;
+    width:100px;
+    border: 15px peru;
+}
+.item4:hover{
+    background-color: orange;
+}
+.item5{
+    background-color: burlywood;
+    height:200px;
+    width:100px;
+}
+.item5:hover{
+    background-color: orange;
+}
+.item6{
+    background-color: plum;
+     height:200px;
+    width:100px;
+
+}
+.item6:hover{
+    background-color: orange;
+}
+

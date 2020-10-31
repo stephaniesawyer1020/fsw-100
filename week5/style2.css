@@ -1,0 +1,27 @@
+.item1{
+    background-color: rgb(226, 77, 226);
+    align-items: center;
+    }
+@media screenonly and () {
+
+}
+.item2{
+    background-color: turquoise;
+}
+.item3{
+    background-color: rgb(201, 77, 201);
+}
+.item4{
+    background-color: turquoise;
+}
+.item5{
+    background-color: rgb(204, 45, 204);
+}
+.item6{
+    background-color: turquoise;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 17px;
+}
