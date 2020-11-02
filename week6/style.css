@@ -6,15 +6,26 @@
     }
     .item1:hover{
         background-color: orange;
+        height: 75px;
+        width: 75px;
     }
 .item2{
      background-color: pink;
-     height: 100px;
-     width: 100px;
-    
+     height: 107px;
+     width: 107px;
+     border-radius: 55px;
+    border: 15pxsolid;
+    transition:  2s ease-in-out .7s;
+
 }
 .item2:hover{
     background-color: orange; 
+    width: 100px;
+    height:  100px;
+    margin: 50px;
+    border-radius: 65px;
+
+
 }
 .item3{
     background-color: lightskyblue;
@@ -24,31 +35,44 @@
 }
 .item3:hover{
     background-color: orange;
+    height:150px;
+    width: 150px;
+
 }
-.item4{
+.item4{ 
     background-color: pink;
-    height:200px;
+    height:100px;
     width:100px;
-    border: 15px peru;
+
 }
 .item4:hover{
     background-color: orange;
+    height: 150px;
+    width: 50px;
+
 }
 .item5{
     background-color: burlywood;
     height:200px;
-    width:100px;
+    width:200px;
 }
 .item5:hover{
     background-color: orange;
+    height:250px;
+    width:100px;
 }
 .item6{
     background-color: plum;
      height:200px;
     width:100px;
+    border-radius: 55px;
+    border: 15pxsolid;
+    transition:  1s ease-in-out .7s;
 
 }
 .item6:hover{
     background-color: orange;
+    margin: 50px;
+    border-radius: 17px;
 }
 

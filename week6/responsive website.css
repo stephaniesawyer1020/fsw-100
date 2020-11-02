@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(90deg, rgba(228,97,183,1) 9%, rgba(242,144,70,0.8827906162464986) 35%, rgba(245,56,46,1) 55%, rgba(223,67,223,1) 72%, rgba(244,52,246,1) 83%, rgba(240,50,146,1) 100%);
+}
+nav{
+    font-size: 200%; color:  white ;
+}
+.p1{
+    font-size: 17px;
+    
+}
+
+.p2{
+    font-size: 17px;
+}
+
+.mylist{
+    font-style: italic;
+    font-size: 24px;
+}
+
