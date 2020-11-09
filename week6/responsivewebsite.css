@@ -1,12 +1,12 @@
 body{
     background: linear-gradient(90deg, rgba(228,97,183,1) 9%, rgba(242,144,70,0.8827906162464986) 35%, rgba(245,56,46,1) 55%, rgba(223,67,223,1) 72%, rgba(244,52,246,1) 83%, rgba(240,50,146,1) 100%);
+    font-family: 'Poppins', sans-serif;
 }
 nav{
-    font-size: 200%; color:  white ;
+    font-size: 97%; color:  white ;
 }
 .p1{
     font-size: 17px;
-    
 }
 
 .p2{
@@ -16,6 +16,7 @@ nav{
 .mylist{
     font-style: italic;
     font-size: 24px;
+    
 }
 body {
     margin: 0;
@@ -64,3 +65,27 @@ body {
     footer{
         font-size: 4px;
     }
+    .p1{
+      color: red;
+
+    }
+  }
+  h1{
+    color: purple;
+
+  }
+h5{
+  color: red;
+  
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat (1,4fr);
+  margin-top: 150px;    
+  grid-gap: 10px;
+  height: 100%;
+  Width: 40%;
+  margin-left: 35%;
+  margin-right: 35%;
+  background-color: rgba(242,144,70,0.8827906162464986);
+}
