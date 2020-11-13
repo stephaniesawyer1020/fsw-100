@@ -46,6 +46,7 @@ body {
   
   .column img {
     margin-top: 8px;
+    position: relative;
     vertical-align: middle;
     width: 100%;
   }
@@ -88,4 +89,10 @@ h5{
   margin-left: 35%;
   margin-right: 35%;
   background-color: rgba(242,144,70,0.8827906162464986);
+}
+nav li a {
+  text-decoration: none;
+}
+nav li a:hover {
+  text-decoration: underline;
 }
